@@ -132,7 +132,7 @@ body {
 }
 
 .header {
-  background: url("https://picsum.photos/4096/2160?random=1") center/cover;
+  background: url("favicon.png") center/cover;
   background-size: cover;
   height: 100vh;
 }
