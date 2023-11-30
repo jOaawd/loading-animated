@@ -132,7 +132,7 @@ body {
 }
 
 .header {
-  background: url("favicon.png") center/cover;
+  background: url("assets/favicon.png") center/cover;
   background-size: cover;
   height: 100vh;
 }
