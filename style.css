@@ -132,7 +132,7 @@ body {
 }
 
 .header {
-  background: url("assets/favicon.png") center/cover;
+  background: url("https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ysy0lr2oalxjuh5epbka") center/cover;
   background-size: cover;
   height: 100vh;
 }
